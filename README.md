@@ -3,7 +3,7 @@ A efi for this hardware
 
 # OC
 0.8.8
-#ATTENTION
+# ATTENTION
 
 This efi goes without serial number, remember to put them with Gnsmbios
 
