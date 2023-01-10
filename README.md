@@ -1,5 +1,7 @@
 # H410_S2H_V3-I5_10400F-RX570-MACOS_VENTURA
-A efi for this hardware
+an efi for this hardware
+
+* Motherboard: h410m s2h v3
 
 # OC
 0.8.8
