@@ -2,6 +2,9 @@
 an efi for this hardware
 
 * Motherboard: h410m s2h v3
+* CPU: i5 10400f
+* GPU: AMD RX570 
+* RAM: 16gb DDR4
 
 # OC
 0.8.8
