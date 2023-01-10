@@ -1,0 +1,2 @@
+# H410_S2H_V3-I5_10400F-RX570-MACOS_VENTURA
+A efi for this hardware
